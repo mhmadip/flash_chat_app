@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730797012077",
+    "project_id": "flash-chat-defac",
+    "storage_bucket": "flash-chat-defac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730797012077:android:49e66ffbf070f53075bb64",
+        "android_client_info": {
+          "package_name": "com.mhmadip.flash_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730797012077-e8uol4ssp1ondqhr4q3kue4lofijujg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFjxd852TUYFQW1mEpcyyyx_Fy-J9lS08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730797012077-e8uol4ssp1ondqhr4q3kue4lofijujg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
